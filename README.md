@@ -1,11 +1,14 @@
+# Darshan Ease – Temples in South India
 
-  # darshan ease (Copy)
+Darshan Ease is a platform designed to help devotees easily explore temples across South India and access darshan-related information.
 
-  This is a code bundle for darshan ease (Copy). The original project is available at https://www.figma.com/design/UgSVGEgpw11kxWoUB3sn80/darshan-ease--Copy-.
+## Features
+• Browse temples across South Indian states  
+• View temple details and locations  
+• User-friendly interface for easy navigation  
 
-  ## Running the code
+## Tech Stack
+React, JavaScript, HTML, CSS
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+## Purpose
+The project aims to simplify temple discovery and provide organized darshan information for devotees traveling across South India.
